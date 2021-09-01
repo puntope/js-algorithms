@@ -12,5 +12,10 @@ A set of solved algorithms in the most known platforms like leetcode, codewars, 
 | 7           | Easy      | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/7-reverse-integer.js) 
 | 8           | Medium      | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/8-string-to-integer-atoi.js) 
 | 9           | Easy      | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/9-palindrome-number.js) 
+| 11           | Medium      | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/11-container-with-most-water.js) 
+| 12           | Medium      | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/12-integer-to-roman.js) 
+| 13           | Easy      | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/13-roman-to-integer.js) 
+| 14           | Easy      | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/14-longest-common-prefix.js) 
+
 
 
