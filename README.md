@@ -16,6 +16,7 @@ A set of solved algorithms in the most known platforms like leetcode, codewars, 
 | 12           | Medium      | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/12-integer-to-roman.js) 
 | 13           | Easy      | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/13-roman-to-integer.js) 
 | 14           | Easy      | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/14-longest-common-prefix.js) 
-
-
+| 35           | Easy      | [Search insert position](https://leetcode.com/problems/search-insert-position/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/35-search-insert-position.js) 
+| 278           | Easy      | [First bad version](https://leetcode.com/problems/first-bad-version/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/278-first-bad-version.js) 
+| 704           | Easy      | [Binary Search](https://leetcode.com/problems/binary-search/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/704-binary-search.js) 
 
