@@ -19,4 +19,4 @@ A set of solved algorithms in the most known platforms like leetcode, codewars, 
 | 35           | Easy      | [Search insert position](https://leetcode.com/problems/search-insert-position/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/35-search-insert-position.js) 
 | 278           | Easy      | [First bad version](https://leetcode.com/problems/first-bad-version/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/278-first-bad-version.js) 
 | 704           | Easy      | [Binary Search](https://leetcode.com/problems/binary-search/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/704-binary-search.js) 
-
+| 977           | Easy      | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/977-squares-of-a-sorted-array.js)
