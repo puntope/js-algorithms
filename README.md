@@ -1,7 +1,7 @@
 # JS ALGORITHMS
 A set of solved algorithms in the most known platforms like leetcode, codewars, hackerrank... 
 
-## [LEETCODE](https://leetcode.com/) 
+## [LEETCODE](https://leetcode.com/) (16)
 
 | Number      | Difficulty  |    Title   | Solution |
 | ----------- | ----------- | ---------- | -------- |
