@@ -17,6 +17,7 @@ A set of solved algorithms in the most known platforms like leetcode, codewars, 
 | 13           | Easy      | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/13-roman-to-integer.js) 
 | 14           | Easy      | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/14-longest-common-prefix.js) 
 | 35           | Easy      | [Search insert position](https://leetcode.com/problems/search-insert-position/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/35-search-insert-position.js) 
+| 167           | Easy      | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/167-two-sum-ii-input-array-is-sorted.js)
 | 189           | Medium      | [Rotate Array](https://leetcode.com/problems/rotate-array/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/189-rotate-array.js)
 | 278           | Easy      | [First bad version](https://leetcode.com/problems/first-bad-version/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/278-first-bad-version.js) 
 | 283           | Easy      | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/283-move-zeroes.js) 
