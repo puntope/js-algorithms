@@ -1,7 +1,7 @@
 # JS ALGORITHMS
 A set of solved algorithms in the most known platforms like leetcode, codewars, hackerrank... 
 
-## [LEETCODE](https://leetcode.com/) (20)
+## [LEETCODE](https://leetcode.com/) (21)
 
 | Number      | Difficulty  |    Title   | Solution |
 | ----------- | ----------- | ---------- | -------- |
@@ -24,6 +24,7 @@ A set of solved algorithms in the most known platforms like leetcode, codewars, 
 | 344           | Easy      | [Reverse string](https://leetcode.com/problems/reverse-string/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/344-reverse-string.js) 
 | 557           | Easy      | [Reverse words in a string III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/557-reverse-words-in-a-string-iii.js) 
 | 704           | Easy      | [Binary Search](https://leetcode.com/problems/binary-search/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/704-binary-search.js) 
+| 876           | Easy      | [Middle of the linked list](https://leetcode.com/problems/middle-of-the-linked-list/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/876-middle-of-the-linked-list.js) 
 | 977           | Easy      | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/977-squares-of-a-sorted-array.js)
 
 
