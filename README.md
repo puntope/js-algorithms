@@ -1,7 +1,7 @@
-# JS ALGORITHMS
+1# JS ALGORITHMS
 A set of solved algorithms in the most known platforms like leetcode, codewars, hackerrank... 
 
-## [LEETCODE](https://leetcode.com/) (21)
+## [LEETCODE](https://leetcode.com/) (22)
 
 | Number      | Difficulty  |    Title   | Solution |
 | ----------- | ----------- | ---------- | -------- |
@@ -16,6 +16,7 @@ A set of solved algorithms in the most known platforms like leetcode, codewars, 
 | 12           | Medium      | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/12-integer-to-roman.js) 
 | 13           | Easy      | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/13-roman-to-integer.js) 
 | 14           | Easy      | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/14-longest-common-prefix.js) 
+| 19           | Medium      | [Remove nth node from end of the list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/19-remove-nth-node-from-end-of-list.js) 
 | 35           | Easy      | [Search insert position](https://leetcode.com/problems/search-insert-position/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/35-search-insert-position.js) 
 | 167           | Easy      | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/167-two-sum-ii-input-array-is-sorted.js)
 | 189           | Medium      | [Rotate Array](https://leetcode.com/problems/rotate-array/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/189-rotate-array.js)
