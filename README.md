@@ -20,6 +20,7 @@ A set of solved algorithms in the most known platforms like leetcode, codewars, 
 | 35           | Easy      | [Search insert position](https://leetcode.com/problems/search-insert-position/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/35-search-insert-position.js) 
 | 167           | Easy      | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/167-two-sum-ii-input-array-is-sorted.js)
 | 189           | Medium      | [Rotate Array](https://leetcode.com/problems/rotate-array/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/189-rotate-array.js)
+| 250           | Medium      | [Count univalue subtrees](https://leetcode.com/problems/count-univalue-subtrees/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/250-count-univalue-subtrees.js)
 | 278           | Easy      | [First bad version](https://leetcode.com/problems/first-bad-version/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/278-first-bad-version.js) 
 | 283           | Easy      | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/283-move-zeroes.js) 
 | 344           | Easy      | [Reverse string](https://leetcode.com/problems/reverse-string/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/344-reverse-string.js) 
