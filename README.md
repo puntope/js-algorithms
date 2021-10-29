@@ -1,7 +1,7 @@
 1# JS ALGORITHMS
 A set of solved algorithms in the most known platforms like leetcode, codewars, hackerrank... 
 
-## [LEETCODE](https://leetcode.com/) (24)
+## [LEETCODE](https://leetcode.com/) (25)
 
 | Number      | Difficulty  |    Title   | Solution |
 | ----------- | ----------- | ---------- | -------- |
@@ -18,6 +18,7 @@ A set of solved algorithms in the most known platforms like leetcode, codewars, 
 | 14           | Easy      | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/14-longest-common-prefix.js) 
 | 19           | Medium      | [Remove nth node from end of the list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/19-remove-nth-node-from-end-of-list.js) 
 | 35           | Easy      | [Search insert position](https://leetcode.com/problems/search-insert-position/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/35-search-insert-position.js) 
+| 102           | Medium      | [Binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/102-binary-tree-level-order-traversal.js) 
 | 144           | Easy      | [ Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/144-binary-tree-preorder-traversal.js)
 | 167           | Easy      | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/167-two-sum-ii-input-array-is-sorted.js)
 | 189           | Medium      | [Rotate Array](https://leetcode.com/problems/rotate-array/) | ➡️ [Open solution](https://github.com/puntope/js-algorithms/blob/main/leetcode/189-rotate-array.js)
