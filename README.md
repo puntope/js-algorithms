@@ -1,4 +1,4 @@
-1# JS ALGORITHMS
+# JS ALGORITHMS
 A set of solved algorithms in the most known platforms like leetcode, codewars, hackerrank... 
 
 ## [LEETCODE](https://leetcode.com/) (25)
